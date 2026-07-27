@@ -1,5 +1,5 @@
 ---
-name: simple-explanation
+name: simple-explanation-rus
 version: "1.0.0"
 description: Объясняет любые темы максимально простыми словами для новичка
 activation:
