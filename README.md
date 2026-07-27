@@ -1,2 +1,2 @@
 # ironclaw-skill
-Explanation of any topic in simple language.
+Explanation of any topic in simple language
