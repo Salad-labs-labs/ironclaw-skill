@@ -11,7 +11,7 @@ It’s useful whenever you need a clear explanation without unnecessary jargon o
 
 Features
 
-- Explains topics in plain language
-- Uses short and clear sentences
 - Provides real-life examples when helpful
+- Uses short and clear sentences
+- Explains topics in plain language
 - Automatically matches the user’s language. 
